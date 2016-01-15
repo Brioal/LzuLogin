@@ -2,7 +2,7 @@
     <string name="app_name">Lzu</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">用户名（不包括leu.edu.cn)</string>
+    <string name="prompt_email">用户名（不包括lzu.edu.cn)</string>
     <string name="prompt_password">密码</string>
     <string name="action_sign_in">登陆</string>
 </resources>

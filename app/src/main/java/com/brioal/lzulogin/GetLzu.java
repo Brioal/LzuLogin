@@ -21,7 +21,7 @@ public class GetLzu {
         try {
          
             url = new URL(info.getUrl());
-            connection = (HttpURLConnection) url.openConnection();//????Connection????
+            connection = (HttpURLConnection) url.openConnection();
             connection.setDoInput(true);
             connection.setDoOutput(true);
             connection.setRequestMethod("POST");
